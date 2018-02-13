@@ -1,5 +1,5 @@
 # Alarm-Clock-Use-Case-Diagram
-4320 Alarm Clock Use Case
+4320 Alarm Clock Use Case by Ethan Schutzenhofer
 
 *Suppose we want to develop software for an alarm clock.*
 
