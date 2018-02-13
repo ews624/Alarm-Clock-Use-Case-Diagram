@@ -9,4 +9,4 @@
 
 *Identify the top-level functional requirement for the clock, and model it with a use case diagram.  (Use case description will come later.  Only create the use case diagram now.)*
  
- ![Case Use Diagram}(/Alarm-Clock-Use-Case-Diagram/Alarm Clock Use Case Diagram.jpg)
+ ![Case Use Diagram](/Alarm-Clock-Use-Case-Diagram/Alarm Clock Use Case Diagram.jpg)
